@@ -1,0 +1,26 @@
+{
+    "judul": "rukun islam",                             
+    "jumlah": 5,
+    "rukun": ["syahadat","shalat","zakat","puasa","haji"],
+    "surah": [
+        {
+            "nomor": 1,
+            "nama": "alfatihah",
+            "jumlah ayat": 7,
+            "tempat turun": "makkah   "
+        },
+        {
+            "nomor": 2,
+            "nama": "albaqarah",
+            "jumlah ayat": 286,
+            "tempat turun": "madenah"
+        },
+        {
+            "nomor": 3,
+            "nama": "alimran  ",
+            "jumlah ayat": 7,
+            "tempat turun": "makkah   "
+        }
+        
+    ]
+}
